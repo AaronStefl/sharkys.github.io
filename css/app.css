@@ -1,0 +1,38 @@
+/*app custom style*/
+.button {
+	background-color: #5f2d8c;
+	border-color: #462065;
+	color:white;
+}
+
+.button:hover, .button:focus {
+	background-color:#462065;
+}
+
+header h2 {
+	font-family: Georgia, serif;
+	font-style: italic;
+	font-weight:normal;
+	padding-top: .4em;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #5f2d8c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----END-----*/
